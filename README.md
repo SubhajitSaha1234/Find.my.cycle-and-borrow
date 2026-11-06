@@ -1,2 +1,2 @@
-# Find.my.cycle-and-rent
+# Find.my.cycle-and-borrow
 Bicycle tracking and borrowing system
